@@ -1,25 +1,11 @@
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/781074/67567104-9fe7d000-f729-11e9-8a2d-0c7286475aac.png">
-</h1>
-
-<h3 align="center">Slim 4 Skeleton</h3>
-
-<div align="center">
-
-  [![Latest Version on Packagist](https://img.shields.io/github/release/odan/slim4-skeleton.svg)](https://packagist.org/packages/odan/slim4-skeleton)
-  [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
-  [![Build Status](https://github.com/odan/slim4-skeleton/workflows/build/badge.svg)](https://github.com/odan/slim4-skeleton/actions)
-  [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/odan/slim4-skeleton.svg)](https://scrutinizer-ci.com/g/odan/slim4-skeleton/code-structure)
-  [![Quality Score](https://img.shields.io/scrutinizer/quality/g/odan/slim4-skeleton.svg)](https://scrutinizer-ci.com/g/odan/slim4-skeleton/?branch=master)
-  [![Total Downloads](https://img.shields.io/packagist/dt/odan/slim4-skeleton.svg)](https://packagist.org/packages/odan/slim4-skeleton/stats)
-
-</div>
+<h3 align="center">Slim 4 Skeleton with Vue.js</h3>
 
 This is a skeleton to quickly set up a new [Slim 4](https://www.slimframework.com/) application.
 
 ## Requirements
 
 * PHP 7.2+
+* Vue.js
 * MySQL 5.7+ or MariaDB
 * Composer (only for development)
 * [NPM](https://nodejs.org/en/download/) (only for development and building)
@@ -59,6 +45,7 @@ This project is based on best practice and industry standards:
 
 ## Frontend
 
+* [Vue.js] (https://www.vuejs.org)
 * [Webpack](https://webpack.js.org/) (Assets bundler)
 * [TypeScript](https://www.typescriptlang.org/) (Static type-checking)
 * [Bootstrap](https://getbootstrap.com/) (Frontend component library)
@@ -73,8 +60,5 @@ This project is based on best practice and industry standards:
 
 * Create issues at <https://github.com/odan/slim4-skeleton/issues>
 * Documentation is at <https://odan.github.io/slim4-skeleton/>
-* Here you can [donate](https://odan.github.io/donate.html) for this project.
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE) for more information.
+* Vue.js Support is at <https://vuejs.org/support-vuejs/>
+* Vue.js Document is at <https://v3.vuejs.org/guide/introduction.html>
