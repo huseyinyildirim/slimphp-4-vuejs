@@ -1,6 +1,6 @@
 <h3 align="center">Slim 4 Skeleton with Vue.js</h3>
 
-This is a skeleton to quickly set up a new [Slim 4](https://www.slimframework.com/) application.
+This is a skeleton to quickly set up a new [Slim 4](https://www.slimframework.com/) with [Vue.js](https://www.vuejs.org/) application.
 
 ## Requirements
 
